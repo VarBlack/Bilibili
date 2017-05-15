@@ -1,0 +1,117 @@
+/*底部*/
+.foot{
+	width: 100%;
+	padding: 40px 0;
+	background-color: rgb(246, 249, 250);
+}
+.footer-cnt{
+	width: 1160px;
+	margin: 0 auto;
+}
+.boston-postcards{
+	height: 112px;
+	margin-bottom: 30px;
+}
+.boston-postcards dl{
+	float: left;
+	height: 100%;
+	width: 360px;
+}
+.boston-postcards .line{
+	float: left;
+	width: 1px;
+	height: 100%;
+	background-color: rgb(229, 233, 239);
+	margin: 0 40px;
+}
+.boston-postcards .tips{
+	width: 100%;
+	height: 14px;
+	margin-bottom: 22px;
+	color: rgb(153, 162, 170);
+}
+.boston-postcards dd{
+	float: left;
+	width: 120px;
+	height: 14px;
+	margin-bottom: 16px;
+}
+.boston-postcards .boston-postcards-r{
+	width: 280px;
+	margin-left: -2px;
+	float: left;
+}
+.boston-postcards-r li{
+	float: left;
+	width: 82px;
+	height: 80px;
+}
+.boston-postcards-r a{
+	display: block;
+	padding: 0 11px;
+	width: 60px;
+	height: 100%;
+	text-align: center;
+}
+.boston-postcards-r em{
+	display: block;
+	line-height: 20px;
+}
+.boston-postcards-r span{
+	display: block;
+	width: 100%;
+	height: 60px;
+}
+.phone span{
+	background-position: -1024px -194px;
+}
+.phone:hover span{
+	background-position: -1090px -194px;
+}
+.weibo span{
+	background-position: -1024px -322px;
+}
+.weibo:hover span{
+	background-position: -1090px -322px;
+}
+.weixin span{
+	background-position: -1024px -66px;
+}
+.weixin:hover span{
+	background-position: -1090px -66px;
+}
+.boston-postcards a:hover{
+	color: rgb(0, 161, 214);
+}
+.foot-bottom div{
+	float: left;
+}
+.f-b-l{
+	width: 100px;
+	height: 80px;
+	margin-right: 15px;
+	background: url(../img/foot.png) no-repeat;
+}
+.f-b-r{
+	width: 974px;
+}
+.f-b-r p{
+	line-height: 24px;
+	color: rgb(153, 162, 170);
+}
+.f-b-r p a{
+	color: rgb(153, 162, 170);
+}
+.f-b-r p a:hover{
+	color: rgb(0, 161, 214);
+}
+.f-b-r p a img{
+	margin-top: 4px;
+}
+.f-b-r .foot-ico{
+	display: inline-block;
+	width: 16px;
+	height: 16px;
+	vertical-align: middle;
+	background-position: -1367px -89px;;
+}

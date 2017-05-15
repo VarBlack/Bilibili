@@ -1,0 +1,8 @@
+.img_bg_1{
+	background-image: url(../img/sprites1.png);
+	background-repeat: no-repeat;
+}
+.img_bg_2{
+	background-image: url(../img/sprites2.png);
+	background-repeat: no-repeat;
+}

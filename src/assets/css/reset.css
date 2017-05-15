@@ -1,0 +1,29 @@
+body,h1,h2,h3,p,dl,dd{
+	margin: 0;
+}
+ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+a{
+	text-decoration: none;
+	color: #000000;
+}
+.clearfix:after{
+	content:'';
+	display: block;
+	clear: both;
+}
+body{
+	font: 12px arial;
+	background-color: #FFF;
+	min-width: 990px;
+	min-height: 1500px;
+}
+em{
+	font-style: normal;
+}
+img{
+	vertical-align: top;
+}
